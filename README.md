@@ -1,4 +1,4 @@
-#  PRODIGY_GA_02 – Text-to-Image Generation using Stable Diffusion
+#  PRODIGY_GA_02_Text-to-Image Generation using Stable Diffusion
 
 This project demonstrates the use of **pre-trained generative models** to generate images from natural language prompts using **Stable Diffusion** and the Hugging Face `diffusers` library.
 
@@ -59,10 +59,11 @@ You can view the output and code in the notebook here:
 
 ---
 
-Author
-Project: PRODIGY_GA_02
+## Author
 
-Maintainer: Parth Ubhad
+Parth Ubhad
+
+GitHub: [Parth-349](https://github.com/Parth-349)
 
 
 
